@@ -1,5 +1,5 @@
 # Gentleman_home
-已淘汰的开发技术，可供学习
+已淘汰的开发技术,可供学习
 
 开发环境：JDK12,tomcat9,MySql 8.0
 运用框架：spring(仅实现了三层的解耦)
