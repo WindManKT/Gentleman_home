@@ -1,0 +1,10 @@
+# Gentleman_home
+已淘汰的开发技术，可供学习
+
+开发环境：JDK12,tomcat9,MySql 8.0
+运用框架：spring(仅实现了三层的解耦)
+
+该项目是本人学习Java时写的一个成人视频的网站
+运用的是最基本的技术servlet，session等,除了spring，没用任何框架性的技术
+ 
+实现了基本的注册登录,充值金币,vip视频,session的30天自动登录,java绘制的验证码
